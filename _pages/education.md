@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /education/
 title: "Education"
 excerpt: "High school and university courses"
 author_profile: true
 redirect_from: 
-  - /education/
   - /courses/
 ---
 
