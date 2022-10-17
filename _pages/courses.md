@@ -35,8 +35,8 @@ redirect_from:
         * Deep Learning \[Planned\]
     
     * Technology Management Sci-Tech
-        * Economics for Engineers
-        * Finance for Engineers
+        * Economics for Engineers \[Current\]
+        * Finance for Engineers \[Planned\]
         * TBD
 
 
