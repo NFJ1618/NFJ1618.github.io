@@ -7,6 +7,8 @@ redirect_from:
   - /courses/
 ---
 
+{% include base_path %}
+
 * UCLA - Bachelor of Science from Samueli School of Engineering
     * Computer Science Major
         * Algorithms and Complexity
@@ -37,11 +39,3 @@ redirect_from:
         * Economics for Engineers \[Current\]
         * Finance for Engineers \[Planned\]
         * TBD
-
-
-
-
-
-
-
-======
