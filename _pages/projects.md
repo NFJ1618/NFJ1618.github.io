@@ -18,5 +18,5 @@ A platform for collaborative storytelling (Winner of Hack on the Hill 2022)
 
 ## Page Shuffler
 
-My friend Bilal wanted an easy way to scramble the order of pages in a PDF file, but the only tools that existed were behind paywalls. [So I built this for him](https://nfj1618-page-shuffler-app-ha4xvd.streamlitapp.com/)
+A friend wanted an easy way to scramble the order of pages in a PDF file, but the only tools that existed were behind paywalls. [So I built this for them.](https://nfj1618-page-shuffler-app-ha4xvd.streamlitapp.com/)
 
