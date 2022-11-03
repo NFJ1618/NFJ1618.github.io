@@ -6,7 +6,7 @@ author_profile: true
 
 ## Sort School
 
-A web-app to easily visualize and learn about different sorting algorithms! [Try it out here!](https://nfj1618-sort-school-app-lphp4n.streamlitapp.com/)
+A web-app to easily visualize and learn about different sorting algorithms! [Try it out here!](https://sort-school.streamlitapp.com/)
 
 ## [GiggleMaps](https://devpost.com/software/gigglemaps-ebnzh0)
 
@@ -18,5 +18,5 @@ A platform for collaborative storytelling (Winner of Hack on the Hill 2022)
 
 ## Page Shuffler
 
-A friend wanted an easy way to scramble the order of pages in a PDF file, but the only tools that existed were behind paywalls. [So I built this for them.](https://nfj1618-page-shuffler-app-ha4xvd.streamlitapp.com/)
+A friend wanted an easy way to scramble the order of pages in a PDF file, but the only tools that existed were behind paywalls. [So I built this for them.](https://page-shuffler.streamlitapp.com/)
 
