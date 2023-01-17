@@ -10,32 +10,15 @@ redirect_from:
 {% include base_path %}
 
 * UCLA - Bachelor of Science from Samueli School of Engineering
-    * Computer Science Major
-        * Algorithms and Complexity
-        * Operating Systems Principles
-        * Probability
-        * Formal Languages and Automata Theory
-        * Computer Graphics \[Current\]
-        * Computer Systems Architecture \[Current\]
-        * Programming Languages \[Planned\]
-        * Compiler Construction \[Planned\]
-        * Computer Network Fundamentals \[Planned\]
-        * Digital Design \[Planned\]
-        * Software Engineering \[Planned\]
-
-    * Data Science Minor
-        * Data Science \[Planned\]
-        * Machine Learning \[Planned\]
-        * Databases \[Planned\]
-        * Data Mining \[Planned\]
-        * Artificial Intelligence
-
-    * Electrical Engineering Tech Breadth
-        * Introduction to Electrical Engineering
-        * Systems and Signals \[Current\]
-        * Deep Learning \[Planned\]
-    
-    * Technology Management Sci-Tech
-        * Economics for Engineers \[Current\]
-        * Finance for Engineers \[Planned\]
-        * TBD
+    * Relevant Coursework
+        * Algorithms and Complexity (CS 180)
+        * Operating Systems Principles (CS 111)
+        * Stats 100A - Probability
+        * Formal Languages and Automata Theory (CS 181)
+        * Computer Graphics (CS 174A)
+        * Computer Systems Architecture (EC ENGR M116C)
+        * Machine Learning (CS M146)
+        * Data Management Systems (CS 143)
+        * Artificial Intelligence (CS 161)
+        * Systems and Signals (EC ENGR 102)
+        * Deep Learning (EC ENGR C147)

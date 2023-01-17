@@ -4,6 +4,10 @@ title: "Projects"
 author_profile: true
 ---
 
+## [Dropper](https://github.com/NFJ1618/Dropper)
+
+A 3D endless runner game based on the Minecraft minigame Dropper and was built using JavaScript and WebGL. It features randomized obstacle generation, collision detection, physics-based collision mechanics and dynamic shaders displaying health and speed.
+
 ## Sort School
 
 A web-app to easily visualize and learn about different sorting algorithms! [Try it out here!](https://sort-school.streamlitapp.com/)

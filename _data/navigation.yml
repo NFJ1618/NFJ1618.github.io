@@ -9,22 +9,23 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
 
-  - title: "Resume"
-    url: /resume/    
+  # - title: "Resume"
+  #   url: /resume/    
 
-  - title: "Education"
-    url: /education/
+  # - title: "Education"
+  #   url: /education/
 
   - title: "Projects"
     url: /projects/
+    
   # - title: "Portfolio"
   #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/

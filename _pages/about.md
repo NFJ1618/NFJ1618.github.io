@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-As a junior at the University of California at Los Angeles intrigued by algorithms, design, and artificial intelligence in pursuit of a Computer Science degree, I aim to bridge the gap between people and software by leveraging the communication skills I've developed through years of public speaking, leading teams, and my longtime penchant for creative writing.
+
+Hi, I'm Jai Parera, a junior Computer Science student at UCLA minoring in Data Science Engineering. I'm interested in Machine Learning and am involved in research that uses neural networks to develop cryptographic applications of optical computing. Some of my passions include game development (I'm working on a six month project with ACM Students Run Studios), Club Spikeball at UCLA, and creative writing.
