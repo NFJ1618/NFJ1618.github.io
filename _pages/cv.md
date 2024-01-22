@@ -8,10 +8,12 @@ author_profile: true
 
 Education
 ======
+* M.S. in Computer Science, University of California - Los Angeles, 2025
 * B.S. in Computer Science, University of California - Los Angeles, 2024
     * Minor: Data Science Engineering
     * GPA: 3.945
     * Honors: Dean’s Honor List (Winter ‘21 - Spring ‘23), Upsilon Pi Epsilon, Tau Beta Pi
+    * Vice President of Club Spikeball
 * Relevant Coursework
     * Algorithms and Complexity (CS 180)
     * Operating Systems Principles (CS 111)
@@ -68,10 +70,10 @@ destructive interference for keys of the same class beyond this matching thresho
   
 Skills
 ======
-* __Programming Languages__: Python, C/C++, JavaScript, Lisp, Shell, SQL
-* __Machine Learning & Data__: PyTorch, Scikit-Learn, Matplotlib, Seaborn, Pandas, NumPy
-* __Web Development__: Streamlit, React, Node, Express, MongoDB, WebGL
-* __Software__: Git, Linux, LaTeX, Jira, AWS, Excel
+* __Programming Languages__: Python, C, C++, JavaScript, Lisp, Bash, SQL, HTML/CSS, Haskell
+* __Machine Learning & Data Processing__: PyTorch, Scikit-Learn, Matplotlib, Seaborn, pandas, NumPy, OpenMP, MPI, MapReduce, CUDA
+* __Web Development__: Streamlit, React, Node.js, Express, MongoDB, WebGL, Selenium
+* __Software and Tools__: Git, Linux, LaTeX, Jira, AWS, Excel, Terraform, VS Code, Docker
 
 <!-- Publications
 ======
