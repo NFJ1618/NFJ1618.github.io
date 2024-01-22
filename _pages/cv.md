@@ -36,7 +36,7 @@ Work experience
 ======
 
 * Security Engineering Intern, Smartsheet _(June 2022 - September 2022)_
-Designed and implemented an automated AWS cybersecurity response system to detect unusual EC2 activity
+  * Designed and implemented an automated AWS cybersecurity response system to detect unusual EC2 activity
   * Developed alerts for notable CloudTrail events, integrated real-time incident reporting with ServiceNow, and automated corrective measures including EC2 disablement and sandboxing.
   * Implemented a commit verification system using Lambda and GitLab API to ensure AWS resource integrity from approved merge requests, enhancing code quality and traceability and ensuring government compliance
   * Manager: Steve Goett
